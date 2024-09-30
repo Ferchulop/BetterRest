@@ -1,13 +1,13 @@
 //
-//  edutainmentUITestsLaunchTests.swift
-//  edutainmentUITests
+//  Project4_MilestoneUITestsLaunchTests.swift
+//  Project4.MilestoneUITests
 //
-//  Created by Fernando Jurado on 26/8/24.
+//  Created by Fernando Jurado on 19/7/24.
 //
 
 import XCTest
 
-final class edutainmentUITestsLaunchTests: XCTestCase {
+final class Project4_MilestoneUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

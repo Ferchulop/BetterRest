@@ -7,61 +7,61 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		14B737092C7D0353005C1865 /* edutainmentApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14B737082C7D0353005C1865 /* edutainmentApp.swift */; };
-		14B7370B2C7D0353005C1865 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14B7370A2C7D0353005C1865 /* ContentView.swift */; };
-		14B7370D2C7D0354005C1865 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14B7370C2C7D0354005C1865 /* Assets.xcassets */; };
-		14B737102C7D0354005C1865 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14B7370F2C7D0354005C1865 /* Preview Assets.xcassets */; };
-		14B7371A2C7D0354005C1865 /* edutainmentTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14B737192C7D0354005C1865 /* edutainmentTests.swift */; };
-		14B737242C7D0354005C1865 /* edutainmentUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14B737232C7D0354005C1865 /* edutainmentUITests.swift */; };
-		14B737262C7D0354005C1865 /* edutainmentUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14B737252C7D0354005C1865 /* edutainmentUITestsLaunchTests.swift */; };
+		14800C732C4AF21C008E2684 /* Project4_MilestoneApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14800C722C4AF21C008E2684 /* Project4_MilestoneApp.swift */; };
+		14800C752C4AF21C008E2684 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14800C742C4AF21C008E2684 /* ContentView.swift */; };
+		14800C772C4AF21D008E2684 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14800C762C4AF21D008E2684 /* Assets.xcassets */; };
+		14800C7A2C4AF21D008E2684 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14800C792C4AF21D008E2684 /* Preview Assets.xcassets */; };
+		14800C842C4AF21D008E2684 /* Project4_MilestoneTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14800C832C4AF21D008E2684 /* Project4_MilestoneTests.swift */; };
+		14800C8E2C4AF21D008E2684 /* Project4_MilestoneUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14800C8D2C4AF21D008E2684 /* Project4_MilestoneUITests.swift */; };
+		14800C902C4AF21D008E2684 /* Project4_MilestoneUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14800C8F2C4AF21D008E2684 /* Project4_MilestoneUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		14B737162C7D0354005C1865 /* PBXContainerItemProxy */ = {
+		14800C802C4AF21D008E2684 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 14B736FD2C7D0353005C1865 /* Project object */;
+			containerPortal = 14800C672C4AF21C008E2684 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 14B737042C7D0353005C1865;
-			remoteInfo = edutainment;
+			remoteGlobalIDString = 14800C6E2C4AF21C008E2684;
+			remoteInfo = Project4.Milestone;
 		};
-		14B737202C7D0354005C1865 /* PBXContainerItemProxy */ = {
+		14800C8A2C4AF21D008E2684 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 14B736FD2C7D0353005C1865 /* Project object */;
+			containerPortal = 14800C672C4AF21C008E2684 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 14B737042C7D0353005C1865;
-			remoteInfo = edutainment;
+			remoteGlobalIDString = 14800C6E2C4AF21C008E2684;
+			remoteInfo = Project4.Milestone;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		14B737052C7D0353005C1865 /* edutainment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = edutainment.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		14B737082C7D0353005C1865 /* edutainmentApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = edutainmentApp.swift; sourceTree = "<group>"; };
-		14B7370A2C7D0353005C1865 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		14B7370C2C7D0354005C1865 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		14B7370F2C7D0354005C1865 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		14B737152C7D0354005C1865 /* edutainmentTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = edutainmentTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		14B737192C7D0354005C1865 /* edutainmentTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = edutainmentTests.swift; sourceTree = "<group>"; };
-		14B7371F2C7D0354005C1865 /* edutainmentUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = edutainmentUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		14B737232C7D0354005C1865 /* edutainmentUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = edutainmentUITests.swift; sourceTree = "<group>"; };
-		14B737252C7D0354005C1865 /* edutainmentUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = edutainmentUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		14800C6F2C4AF21C008E2684 /* Project4.Milestone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project4.Milestone.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		14800C722C4AF21C008E2684 /* Project4_MilestoneApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project4_MilestoneApp.swift; sourceTree = "<group>"; };
+		14800C742C4AF21C008E2684 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		14800C762C4AF21D008E2684 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		14800C792C4AF21D008E2684 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		14800C7F2C4AF21D008E2684 /* Project4.MilestoneTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Project4.MilestoneTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		14800C832C4AF21D008E2684 /* Project4_MilestoneTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project4_MilestoneTests.swift; sourceTree = "<group>"; };
+		14800C892C4AF21D008E2684 /* Project4.MilestoneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Project4.MilestoneUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		14800C8D2C4AF21D008E2684 /* Project4_MilestoneUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project4_MilestoneUITests.swift; sourceTree = "<group>"; };
+		14800C8F2C4AF21D008E2684 /* Project4_MilestoneUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project4_MilestoneUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		14B737022C7D0353005C1865 /* Frameworks */ = {
+		14800C6C2C4AF21C008E2684 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		14B737122C7D0354005C1865 /* Frameworks */ = {
+		14800C7C2C4AF21D008E2684 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		14B7371C2C7D0354005C1865 /* Frameworks */ = {
+		14800C862C4AF21D008E2684 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -71,142 +71,150 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		14B736FC2C7D0353005C1865 = {
+		14800C662C4AF21C008E2684 = {
 			isa = PBXGroup;
 			children = (
-				14B737072C7D0353005C1865 /* edutainment */,
-				14B737182C7D0354005C1865 /* edutainmentTests */,
-				14B737222C7D0354005C1865 /* edutainmentUITests */,
-				14B737062C7D0353005C1865 /* Products */,
+				14800C712C4AF21C008E2684 /* Project4.Milestone */,
+				14800C822C4AF21D008E2684 /* Project4.MilestoneTests */,
+				14800C8C2C4AF21D008E2684 /* Project4.MilestoneUITests */,
+				14800C702C4AF21C008E2684 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		14B737062C7D0353005C1865 /* Products */ = {
+		14800C702C4AF21C008E2684 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				14B737052C7D0353005C1865 /* edutainment.app */,
-				14B737152C7D0354005C1865 /* edutainmentTests.xctest */,
-				14B7371F2C7D0354005C1865 /* edutainmentUITests.xctest */,
+				14800C6F2C4AF21C008E2684 /* Project4.Milestone.app */,
+				14800C7F2C4AF21D008E2684 /* Project4.MilestoneTests.xctest */,
+				14800C892C4AF21D008E2684 /* Project4.MilestoneUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		14B737072C7D0353005C1865 /* edutainment */ = {
+		14800C712C4AF21C008E2684 /* Project4.Milestone */ = {
 			isa = PBXGroup;
 			children = (
-				14B737082C7D0353005C1865 /* edutainmentApp.swift */,
-				14B7370A2C7D0353005C1865 /* ContentView.swift */,
-				14B7370C2C7D0354005C1865 /* Assets.xcassets */,
-				14B7370E2C7D0354005C1865 /* Preview Content */,
+				14B735E42C501C35005C1865 /* tutorial */,
+				14800C722C4AF21C008E2684 /* Project4_MilestoneApp.swift */,
+				14800C742C4AF21C008E2684 /* ContentView.swift */,
+				14800C762C4AF21D008E2684 /* Assets.xcassets */,
+				14800C782C4AF21D008E2684 /* Preview Content */,
 			);
-			path = edutainment;
+			path = Project4.Milestone;
 			sourceTree = "<group>";
 		};
-		14B7370E2C7D0354005C1865 /* Preview Content */ = {
+		14800C782C4AF21D008E2684 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				14B7370F2C7D0354005C1865 /* Preview Assets.xcassets */,
+				14800C792C4AF21D008E2684 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		14B737182C7D0354005C1865 /* edutainmentTests */ = {
+		14800C822C4AF21D008E2684 /* Project4.MilestoneTests */ = {
 			isa = PBXGroup;
 			children = (
-				14B737192C7D0354005C1865 /* edutainmentTests.swift */,
+				14800C832C4AF21D008E2684 /* Project4_MilestoneTests.swift */,
 			);
-			path = edutainmentTests;
+			path = Project4.MilestoneTests;
 			sourceTree = "<group>";
 		};
-		14B737222C7D0354005C1865 /* edutainmentUITests */ = {
+		14800C8C2C4AF21D008E2684 /* Project4.MilestoneUITests */ = {
 			isa = PBXGroup;
 			children = (
-				14B737232C7D0354005C1865 /* edutainmentUITests.swift */,
-				14B737252C7D0354005C1865 /* edutainmentUITestsLaunchTests.swift */,
+				14800C8D2C4AF21D008E2684 /* Project4_MilestoneUITests.swift */,
+				14800C8F2C4AF21D008E2684 /* Project4_MilestoneUITestsLaunchTests.swift */,
 			);
-			path = edutainmentUITests;
+			path = Project4.MilestoneUITests;
+			sourceTree = "<group>";
+		};
+		14B735E42C501C35005C1865 /* tutorial */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = tutorial;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		14B737042C7D0353005C1865 /* edutainment */ = {
+		14800C6E2C4AF21C008E2684 /* Project4.Milestone */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 14B737292C7D0354005C1865 /* Build configuration list for PBXNativeTarget "edutainment" */;
+			buildConfigurationList = 14800C932C4AF21D008E2684 /* Build configuration list for PBXNativeTarget "Project4.Milestone" */;
 			buildPhases = (
-				14B737012C7D0353005C1865 /* Sources */,
-				14B737022C7D0353005C1865 /* Frameworks */,
-				14B737032C7D0353005C1865 /* Resources */,
+				14800C6B2C4AF21C008E2684 /* Sources */,
+				14800C6C2C4AF21C008E2684 /* Frameworks */,
+				14800C6D2C4AF21C008E2684 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = edutainment;
-			productName = edutainment;
-			productReference = 14B737052C7D0353005C1865 /* edutainment.app */;
+			name = Project4.Milestone;
+			productName = Project4.Milestone;
+			productReference = 14800C6F2C4AF21C008E2684 /* Project4.Milestone.app */;
 			productType = "com.apple.product-type.application";
 		};
-		14B737142C7D0354005C1865 /* edutainmentTests */ = {
+		14800C7E2C4AF21D008E2684 /* Project4.MilestoneTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 14B7372C2C7D0354005C1865 /* Build configuration list for PBXNativeTarget "edutainmentTests" */;
+			buildConfigurationList = 14800C962C4AF21D008E2684 /* Build configuration list for PBXNativeTarget "Project4.MilestoneTests" */;
 			buildPhases = (
-				14B737112C7D0354005C1865 /* Sources */,
-				14B737122C7D0354005C1865 /* Frameworks */,
-				14B737132C7D0354005C1865 /* Resources */,
+				14800C7B2C4AF21D008E2684 /* Sources */,
+				14800C7C2C4AF21D008E2684 /* Frameworks */,
+				14800C7D2C4AF21D008E2684 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				14B737172C7D0354005C1865 /* PBXTargetDependency */,
+				14800C812C4AF21D008E2684 /* PBXTargetDependency */,
 			);
-			name = edutainmentTests;
-			productName = edutainmentTests;
-			productReference = 14B737152C7D0354005C1865 /* edutainmentTests.xctest */;
+			name = Project4.MilestoneTests;
+			productName = Project4.MilestoneTests;
+			productReference = 14800C7F2C4AF21D008E2684 /* Project4.MilestoneTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		14B7371E2C7D0354005C1865 /* edutainmentUITests */ = {
+		14800C882C4AF21D008E2684 /* Project4.MilestoneUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 14B7372F2C7D0354005C1865 /* Build configuration list for PBXNativeTarget "edutainmentUITests" */;
+			buildConfigurationList = 14800C992C4AF21D008E2684 /* Build configuration list for PBXNativeTarget "Project4.MilestoneUITests" */;
 			buildPhases = (
-				14B7371B2C7D0354005C1865 /* Sources */,
-				14B7371C2C7D0354005C1865 /* Frameworks */,
-				14B7371D2C7D0354005C1865 /* Resources */,
+				14800C852C4AF21D008E2684 /* Sources */,
+				14800C862C4AF21D008E2684 /* Frameworks */,
+				14800C872C4AF21D008E2684 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				14B737212C7D0354005C1865 /* PBXTargetDependency */,
+				14800C8B2C4AF21D008E2684 /* PBXTargetDependency */,
 			);
-			name = edutainmentUITests;
-			productName = edutainmentUITests;
-			productReference = 14B7371F2C7D0354005C1865 /* edutainmentUITests.xctest */;
+			name = Project4.MilestoneUITests;
+			productName = Project4.MilestoneUITests;
+			productReference = 14800C892C4AF21D008E2684 /* Project4.MilestoneUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		14B736FD2C7D0353005C1865 /* Project object */ = {
+		14800C672C4AF21C008E2684 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1540;
 				LastUpgradeCheck = 1540;
 				TargetAttributes = {
-					14B737042C7D0353005C1865 = {
+					14800C6E2C4AF21C008E2684 = {
 						CreatedOnToolsVersion = 15.4;
 					};
-					14B737142C7D0354005C1865 = {
+					14800C7E2C4AF21D008E2684 = {
 						CreatedOnToolsVersion = 15.4;
-						TestTargetID = 14B737042C7D0353005C1865;
+						TestTargetID = 14800C6E2C4AF21C008E2684;
 					};
-					14B7371E2C7D0354005C1865 = {
+					14800C882C4AF21D008E2684 = {
 						CreatedOnToolsVersion = 15.4;
-						TestTargetID = 14B737042C7D0353005C1865;
+						TestTargetID = 14800C6E2C4AF21C008E2684;
 					};
 				};
 			};
-			buildConfigurationList = 14B737002C7D0353005C1865 /* Build configuration list for PBXProject "edutainment" */;
+			buildConfigurationList = 14800C6A2C4AF21C008E2684 /* Build configuration list for PBXProject "Project4.Milestone" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -214,36 +222,36 @@
 				en,
 				Base,
 			);
-			mainGroup = 14B736FC2C7D0353005C1865;
-			productRefGroup = 14B737062C7D0353005C1865 /* Products */;
+			mainGroup = 14800C662C4AF21C008E2684;
+			productRefGroup = 14800C702C4AF21C008E2684 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				14B737042C7D0353005C1865 /* edutainment */,
-				14B737142C7D0354005C1865 /* edutainmentTests */,
-				14B7371E2C7D0354005C1865 /* edutainmentUITests */,
+				14800C6E2C4AF21C008E2684 /* Project4.Milestone */,
+				14800C7E2C4AF21D008E2684 /* Project4.MilestoneTests */,
+				14800C882C4AF21D008E2684 /* Project4.MilestoneUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		14B737032C7D0353005C1865 /* Resources */ = {
+		14800C6D2C4AF21C008E2684 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14B737102C7D0354005C1865 /* Preview Assets.xcassets in Resources */,
-				14B7370D2C7D0354005C1865 /* Assets.xcassets in Resources */,
+				14800C7A2C4AF21D008E2684 /* Preview Assets.xcassets in Resources */,
+				14800C772C4AF21D008E2684 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		14B737132C7D0354005C1865 /* Resources */ = {
+		14800C7D2C4AF21D008E2684 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		14B7371D2C7D0354005C1865 /* Resources */ = {
+		14800C872C4AF21D008E2684 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -253,49 +261,49 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		14B737012C7D0353005C1865 /* Sources */ = {
+		14800C6B2C4AF21C008E2684 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14B7370B2C7D0353005C1865 /* ContentView.swift in Sources */,
-				14B737092C7D0353005C1865 /* edutainmentApp.swift in Sources */,
+				14800C752C4AF21C008E2684 /* ContentView.swift in Sources */,
+				14800C732C4AF21C008E2684 /* Project4_MilestoneApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		14B737112C7D0354005C1865 /* Sources */ = {
+		14800C7B2C4AF21D008E2684 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14B7371A2C7D0354005C1865 /* edutainmentTests.swift in Sources */,
+				14800C842C4AF21D008E2684 /* Project4_MilestoneTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		14B7371B2C7D0354005C1865 /* Sources */ = {
+		14800C852C4AF21D008E2684 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14B737242C7D0354005C1865 /* edutainmentUITests.swift in Sources */,
-				14B737262C7D0354005C1865 /* edutainmentUITestsLaunchTests.swift in Sources */,
+				14800C902C4AF21D008E2684 /* Project4_MilestoneUITestsLaunchTests.swift in Sources */,
+				14800C8E2C4AF21D008E2684 /* Project4_MilestoneUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		14B737172C7D0354005C1865 /* PBXTargetDependency */ = {
+		14800C812C4AF21D008E2684 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 14B737042C7D0353005C1865 /* edutainment */;
-			targetProxy = 14B737162C7D0354005C1865 /* PBXContainerItemProxy */;
+			target = 14800C6E2C4AF21C008E2684 /* Project4.Milestone */;
+			targetProxy = 14800C802C4AF21D008E2684 /* PBXContainerItemProxy */;
 		};
-		14B737212C7D0354005C1865 /* PBXTargetDependency */ = {
+		14800C8B2C4AF21D008E2684 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 14B737042C7D0353005C1865 /* edutainment */;
-			targetProxy = 14B737202C7D0354005C1865 /* PBXContainerItemProxy */;
+			target = 14800C6E2C4AF21C008E2684 /* Project4.Milestone */;
+			targetProxy = 14800C8A2C4AF21D008E2684 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		14B737272C7D0354005C1865 /* Debug */ = {
+		14800C912C4AF21D008E2684 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -358,7 +366,7 @@
 			};
 			name = Debug;
 		};
-		14B737282C7D0354005C1865 /* Release */ = {
+		14800C922C4AF21D008E2684 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -414,14 +422,14 @@
 			};
 			name = Release;
 		};
-		14B7372A2C7D0354005C1865 /* Debug */ = {
+		14800C942C4AF21D008E2684 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"edutainment/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Project4.Milestone/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -434,7 +442,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = name.fernandojurado.edutainment;
+				PRODUCT_BUNDLE_IDENTIFIER = "name.fernandojurado.Project4-Milestone";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -442,14 +450,14 @@
 			};
 			name = Debug;
 		};
-		14B7372B2C7D0354005C1865 /* Release */ = {
+		14800C952C4AF21D008E2684 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"edutainment/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Project4.Milestone/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -462,7 +470,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = name.fernandojurado.edutainment;
+				PRODUCT_BUNDLE_IDENTIFIER = "name.fernandojurado.Project4-Milestone";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -470,7 +478,7 @@
 			};
 			name = Release;
 		};
-		14B7372D2C7D0354005C1865 /* Debug */ = {
+		14800C972C4AF21D008E2684 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -480,16 +488,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = name.fernandojurado.edutainmentTests;
+				PRODUCT_BUNDLE_IDENTIFIER = "name.fernandojurado.Project4-MilestoneTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/edutainment.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/edutainment";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Project4.Milestone.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Project4.Milestone";
 			};
 			name = Debug;
 		};
-		14B7372E2C7D0354005C1865 /* Release */ = {
+		14800C982C4AF21D008E2684 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -499,16 +507,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = name.fernandojurado.edutainmentTests;
+				PRODUCT_BUNDLE_IDENTIFIER = "name.fernandojurado.Project4-MilestoneTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/edutainment.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/edutainment";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Project4.Milestone.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Project4.Milestone";
 			};
 			name = Release;
 		};
-		14B737302C7D0354005C1865 /* Debug */ = {
+		14800C9A2C4AF21D008E2684 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -516,16 +524,16 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = name.fernandojurado.edutainmentUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = "name.fernandojurado.Project4-MilestoneUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = edutainment;
+				TEST_TARGET_NAME = Project4.Milestone;
 			};
 			name = Debug;
 		};
-		14B737312C7D0354005C1865 /* Release */ = {
+		14800C9B2C4AF21D008E2684 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -533,55 +541,55 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = name.fernandojurado.edutainmentUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = "name.fernandojurado.Project4-MilestoneUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = edutainment;
+				TEST_TARGET_NAME = Project4.Milestone;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		14B737002C7D0353005C1865 /* Build configuration list for PBXProject "edutainment" */ = {
+		14800C6A2C4AF21C008E2684 /* Build configuration list for PBXProject "Project4.Milestone" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				14B737272C7D0354005C1865 /* Debug */,
-				14B737282C7D0354005C1865 /* Release */,
+				14800C912C4AF21D008E2684 /* Debug */,
+				14800C922C4AF21D008E2684 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		14B737292C7D0354005C1865 /* Build configuration list for PBXNativeTarget "edutainment" */ = {
+		14800C932C4AF21D008E2684 /* Build configuration list for PBXNativeTarget "Project4.Milestone" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				14B7372A2C7D0354005C1865 /* Debug */,
-				14B7372B2C7D0354005C1865 /* Release */,
+				14800C942C4AF21D008E2684 /* Debug */,
+				14800C952C4AF21D008E2684 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		14B7372C2C7D0354005C1865 /* Build configuration list for PBXNativeTarget "edutainmentTests" */ = {
+		14800C962C4AF21D008E2684 /* Build configuration list for PBXNativeTarget "Project4.MilestoneTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				14B7372D2C7D0354005C1865 /* Debug */,
-				14B7372E2C7D0354005C1865 /* Release */,
+				14800C972C4AF21D008E2684 /* Debug */,
+				14800C982C4AF21D008E2684 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		14B7372F2C7D0354005C1865 /* Build configuration list for PBXNativeTarget "edutainmentUITests" */ = {
+		14800C992C4AF21D008E2684 /* Build configuration list for PBXNativeTarget "Project4.MilestoneUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				14B737302C7D0354005C1865 /* Debug */,
-				14B737312C7D0354005C1865 /* Release */,
+				14800C9A2C4AF21D008E2684 /* Debug */,
+				14800C9B2C4AF21D008E2684 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 14B736FD2C7D0353005C1865 /* Project object */;
+	rootObject = 14800C672C4AF21C008E2684 /* Project object */;
 }

@@ -1,14 +1,14 @@
 //
-//  edutainmentTests.swift
-//  edutainmentTests
+//  Project4_MilestoneTests.swift
+//  Project4.MilestoneTests
 //
-//  Created by Fernando Jurado on 26/8/24.
+//  Created by Fernando Jurado on 19/7/24.
 //
 
 import XCTest
-@testable import edutainment
+@testable import Project4_Milestone
 
-final class edutainmentTests: XCTestCase {
+final class Project4_MilestoneTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
